@@ -1,3 +1,0 @@
-D:/programming/PROJECTS/cpp/todolist/build/CMakeFiles/todolist.dir
-D:/programming/PROJECTS/cpp/todolist/build/CMakeFiles/edit_cache.dir
-D:/programming/PROJECTS/cpp/todolist/build/CMakeFiles/rebuild_cache.dir
