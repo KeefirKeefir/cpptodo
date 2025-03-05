@@ -1,0 +1,9 @@
+Basic Features
+
+✅ Add a task
+✅ Remove a task
+✅ Mark a task as complete/incomplete
+✅ List all tasks (show completed & pending)
+✅ Save/load tasks from a JSON file
+
+

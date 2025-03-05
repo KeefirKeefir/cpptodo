@@ -1,0 +1,8 @@
+# ninja log v6
+5	1348	7623933035333887	CMakeFiles/todolist.dir/main.cpp.obj	5c835fef74204212
+2389	2893	7624438728710330	todolist.exe	f512fed438aa314f
+20	2389	7624438705013714	CMakeFiles/todolist.dir/src/main.cpp.obj	7ce65fe10c816c82
+3	589	7628923930277314	build.ninja	5c52897f42293502
+3	589	7628923930227276	D:/programming/PROJECTS/cpp/todolist/build/cmake_install.cmake	5c52897f42293502
+95	920	7628923930277314	build.ninja	5c52897f42293502
+95	920	7628923930277314	D:/programming/PROJECTS/cpp/todolist/build/cmake_install.cmake	5c52897f42293502
